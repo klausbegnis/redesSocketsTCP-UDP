@@ -9,3 +9,7 @@ A Base A se comunica com o Centro de Comandos via TCP, enquanto o Centro de Coma
 ## Utilização
 
 Para testar o projeto, basta executar cada um dos arquivos .py, de forma que o 'baseA.py' seja executado por último, já que necessita encontrar o servidor.
+
+## Video demonstrativo
+
+... adicionar link do vídeo
