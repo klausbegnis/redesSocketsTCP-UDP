@@ -14,3 +14,4 @@ Para testar o projeto, basta executar cada um dos arquivos .py, de forma que o '
 
 ## Video demonstrativo
 
+https://youtu.be/7B8xJrbzXAs
