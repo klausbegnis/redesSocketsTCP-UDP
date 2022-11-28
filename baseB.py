@@ -59,6 +59,6 @@ class BaseB(socket):
         print(f"Enviando frota aerea")
     def retornaFrotaAerea(self):
         self.frotaAereaOcupada = False
-        print(f"Frota aere retornando a base")
+        print(f"Frota aerea retornando a base")
 
 BASEA = BaseB(2500)

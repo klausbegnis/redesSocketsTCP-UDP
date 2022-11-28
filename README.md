@@ -1,5 +1,7 @@
 # Trabalho de Redes de Comunicação para Automação Industrial (DAS 5314)
 
+Integrantes: Klaus Edward Becker Begnis (20100672)
+
 ## Estações militares e suporte aéreo
 
 O trabalho consta no desenvolvimento da comunicação entre uma base no "fronte", dada como "Base A", um Centro de Comandos e uma "Base B (aerea)".
@@ -12,4 +14,3 @@ Para testar o projeto, basta executar cada um dos arquivos .py, de forma que o '
 
 ## Video demonstrativo
 
-... adicionar link do vídeo
